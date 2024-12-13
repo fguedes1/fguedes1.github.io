@@ -1,7 +1,7 @@
 ---
 title: "Characteristics of Venezuelan migration to Brazil: General aspects and labour market allocation"
 collection: publications
-category: wps
+category: books
 permalink: /publication/wp-1
 excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
 date: #2024-10-01
