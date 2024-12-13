@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download cv here](https://fguedes1.github.io/files/cv.pdf)
+[Download cv in Portuguese here](https://fguedes1.github.io/files/cv.pdf)
+
