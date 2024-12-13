@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/paper-1
 excerpt: ''
 date: 2024-10-12
-venue: 'Journal 1'
+venue: 'International Journal of Epidemiology'
 slidesurl: ''
 paperurl: 'https://academic.oup.com/ije/article/53/6/dyae153/7905815'
 citation: 'Lidiane Toledo, Rodrigo Rodrigues, Flávia Alves, Fillipe Guedes, Jacyra Azevedo Paiva de Araújo, John A Naslund, Maurício L Barreto, Vikram Patel, Daiane Borges Machado, Risk of psychiatric hospitalization in low-income youth: longitudinal findings from the 100 Million Brazilian Cohort, International Journal of Epidemiology, Volume 53, Issue 6, December 2024.'
