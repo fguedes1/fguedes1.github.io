@@ -3,11 +3,11 @@ title: "Dinamica da variacao residual dos salários no Brasil: Uma analise para 
 collection: publications
 category: conferences
 permalink: /publication/paper-conference-1
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2021-01-01
 venue: 'ANPEC - Associação Nacional dos Centros de Pós-graduação em Economia'
 paperurl: 'https://www.anpec.org.br/encontro/2021/submissao/files_I/i13-32ac796b839beb7830cd6695158a76c8.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: ''
 ---
 
 Abstract: 
