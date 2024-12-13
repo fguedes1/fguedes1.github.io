@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Risk of psychiatric hospitalization in low-income youth: longitudinal findings from the 100 Million Brazilian Cohort"
 collection: publications
 category: manuscripts
 permalink: /publication/paper-1

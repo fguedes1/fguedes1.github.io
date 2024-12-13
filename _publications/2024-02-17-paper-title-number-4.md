@@ -7,7 +7,7 @@ excerpt: ''
 date: 2021-01-01
 venue: 'ANPEC - Associação Nacional dos Centros de Pós-graduação em Economia'
 paperurl: 'https://www.anpec.org.br/encontro/2021/submissao/files_I/i13-32ac796b839beb7830cd6695158a76c8.pdf'
-citation: ''
+citation: #''
 ---
 
 Abstract: 

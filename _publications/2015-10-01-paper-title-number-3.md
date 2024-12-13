@@ -7,6 +7,6 @@ excerpt: ''
 date: 2024-02-16
 venue: 'XII REUNIAO DA ABAVE - 20 ANOS'
 paperurl: 'https://even3.blob.core.windows.net/anais/661561.pdf'
-citation: ''
+citation: #''
 ---
 
