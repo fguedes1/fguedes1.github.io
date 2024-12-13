@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Federal University at Juiz de Fora"
+date: 2022
+location: "Juiz de Fora, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Courses 
 
-Heading 1
-======
+- Labor Economics
+- Econometrics
 
-Heading 2
-======
-
-Heading 3
-======
